@@ -1,2 +1,2 @@
-# noakorn.github.io
+# Noa Korneev's Portfolio
 Noa's portfolio
